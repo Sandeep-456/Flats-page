@@ -1,0 +1,143 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Bree Serif:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.home-page-bg-container {
+  background-image: url("https://assets.ccbp.in/frontend/static-website/flats-list-bg.png");
+  background-size: cover;
+  height: 100vh;
+}
+
+.home-page-card {
+  background-color: #ffffff;
+  padding: 30px;
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+  text-align: center;
+}
+
+.name {
+  color: #f19116;
+  font-family: "Bree Serif";
+  font-size: 20px;
+  font-weight: 500;
+}
+
+.note {
+  color: #7b8794;
+  font-family: "Bree Serif";
+  font-size: 14px;
+  font-weight: 500;
+  margin-bottom: 38px;
+}
+
+.button {
+  color: #ffffff;
+  font-family: "Roboto";
+  font-size: 12px;
+  font-weight: 500;
+  background-color: #f19116;
+  border-radius: 6px;
+  border-width: 0px;
+  height: 32px;
+  width: 82px;
+}
+
+.flat-list-bg-cntr {
+  background-color: #222222;
+  padding: 20px;
+  height: 100vh;
+}
+
+.flat-name {
+  color: #f19116;
+  font-family: "Bree Serif";
+  font-size: 24px;
+  font-weight: 500;
+  margin-top: 16px;
+}
+
+.flat-card {
+  background-color: #ffffff;
+  border-radius: 14px;
+  margin-bottom: 16px;
+}
+
+.flat-image {
+  width: 80px;
+  height: 157px;
+}
+
+.text-container {
+  margin-left: 10px;
+  padding-top: 14px;
+}
+
+.card-heading {
+  color: #0f0e46;
+  font-family: "Bree Serif";
+  font-size: 24px;
+  font-weight: 600;
+}
+
+.card-discription {
+  color: #6c6b70;
+  font-family: "Bree Serif";
+  font-size: 12px;
+  font-weight: 500;
+}
+
+.button-cntr {
+  margin-top: 43px;
+}
+
+.detail-page-bg-cntr {
+  background-color: #222222;
+  height: 100vh;
+}
+
+.detail-page-image {
+  width: 100vw;
+}
+
+.bottom-cntr {
+  padding: 20px;
+}
+
+.price-description {
+  color: #f19116;
+  font-family: "Bree Serif";
+  font-size: 24px;
+  font-weight: 500;
+}
+
+.adress-cntr {
+  margin-top: 20px;
+}
+
+.location-image {
+  width: 28px;
+  height: 28px;
+}
+
+.address {
+  color: #ffffff;
+  font-family: "Bree Serif";
+  font-size: 14px;
+  font-weight: 300;
+  margin-left: 20px;
+}
+
+.details {
+  color: #ffffff;
+  font-family: "Bree Serif";
+  font-size: 14px;
+  font-weight: 300;
+}
+
+.detailpage-btn-cntr {
+  text-align: center;
+  margin-top: 40px;
+}
+
+.space {
+  margin-right: 20px;
+}
